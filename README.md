@@ -8,7 +8,7 @@ I've been coding since 2012. I'm a back-end developer
 
 * 🎓  I graduated Hürriyet Vocational and Technical Anatolian High school in 2016
 * 🎓  I graduated Computer Programming at Erciyes University 2019
-* 🎓  I I'm currently Management Information Systems  at Ondokuz Anadolu University
+* 🎓  I I'm currently Management Information Systems at Anadolu University
 * 🧠  I'm learning C# and .NET CORE 
 * 🌐  I’m learning English
 * 🎆  I did my military service.
