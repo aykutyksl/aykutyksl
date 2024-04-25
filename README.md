@@ -4,7 +4,7 @@
 
 
 -----------------------------------------------------------
-I've been coding since 2012. I'm a back-end developer  
+I've been coding since 2023. I'm a back-end developer  
 
 * 🎓  I graduated Hürriyet Vocational and Technical Anatolian High school in 2016
 * 🎓  I graduated Computer Programming at Erciyes University 2019
